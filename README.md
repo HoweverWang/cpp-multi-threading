@@ -8,8 +8,9 @@ Depends: C++11. Only semaphore needs C++20
 
 代码基于上述视频教程，并在gpt指导下做了略微的改动优化，  
 弥补了原教程不提供源码的缺憾。
+
 该仓库主要包括：  
-thread、jion、mutex、lock、cv、sema、future、async等常见用法，  
+thread、join、mutex、lock、cv、sema、future、async等常见用法，  
 以及两个微型项目：生产者与消费者模型、单一工作队列的线程池。  
 
 PS:  
